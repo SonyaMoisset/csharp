@@ -1,0 +1,5 @@
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
