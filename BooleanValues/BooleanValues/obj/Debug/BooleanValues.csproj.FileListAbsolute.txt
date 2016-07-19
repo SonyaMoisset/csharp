@@ -1,0 +1,5 @@
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BooleanValues\BooleanValues\bin\Debug\BooleanValues.exe.config
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BooleanValues\BooleanValues\bin\Debug\BooleanValues.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BooleanValues\BooleanValues\bin\Debug\BooleanValues.pdb
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BooleanValues\BooleanValues\obj\Debug\BooleanValues.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BooleanValues\BooleanValues\obj\Debug\BooleanValues.pdb
