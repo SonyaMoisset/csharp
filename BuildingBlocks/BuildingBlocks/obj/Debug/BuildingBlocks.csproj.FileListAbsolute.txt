@@ -1,0 +1,5 @@
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb
