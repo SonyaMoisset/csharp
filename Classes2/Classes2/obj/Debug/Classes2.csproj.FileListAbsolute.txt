@@ -1,0 +1,5 @@
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Classes2\Classes2\bin\Debug\Classes2.exe.config
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Classes2\Classes2\bin\Debug\Classes2.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Classes2\Classes2\bin\Debug\Classes2.pdb
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Classes2\Classes2\obj\Debug\Classes2.exe
+c:\users\sonya moisset\documents\visual studio 2015\Projects\Classes2\Classes2\obj\Debug\Classes2.pdb
